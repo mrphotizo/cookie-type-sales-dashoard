@@ -28,7 +28,7 @@
 - Built with **Power BI Desktop**
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](dashboard.png.png)
 
 ## 🚀 How to Use
 
